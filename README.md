@@ -2,7 +2,7 @@
 
 <img width="100" src="public/school_girl_lying.jpg">
 
-# 「 ✦ ひらがなれんしゅう — Hiragana Practice App ✦ 」
+# 「 ✦ かな稽古 — Hiragana Practice App ✦ 」
 
 </div>
 
