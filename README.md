@@ -1,3 +1,6 @@
+> [!WARNING]
+> project is still in development (´◡`).
+
 <div align="center">
 
 <img width="100" src="public/school_girl_lying.jpg">
